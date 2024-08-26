@@ -5,6 +5,9 @@ module.exports = {
     extend: {
       colors: {},
       fontfamily: {},
+      backgroundImage: {
+        "discuss-section": "url('./assets/bg.jpg')",
+      },
     },
   },
   plugins: [],
